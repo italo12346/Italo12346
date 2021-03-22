@@ -1,10 +1,10 @@
 # Olá sou Italo Souza Sampaio :vulcan_salute:	:wave:
 	
 
-*Sobre mim: 
+Sobre mim: 
 
-🏫 Cursando Analise e desenvolvimento de sistemas  - IFPB- Cajazeiras.
+ 🏫 Cursando Analise e desenvolvimento de sistemas  - IFPB- Cajazeiras.
 
-*Áreas de interesse :nerd_face:
+Áreas de interesse :nerd_face:
 
-:blue_book:Programação
+ *:blue_book:Programação
