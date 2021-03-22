@@ -3,7 +3,7 @@
 
 	
 
-Sobre mim:
+Sobre mim: :nerd_face:
 
 
 🏫 Cursando Analise e desenvolvimento de sistemas  - IFPB- Cajazeiras.
