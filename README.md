@@ -1,6 +1,6 @@
 # Olá sou Italo Souza Sampaio :vulcan_salute::wave:
 
-[<img height = "30" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="italo12346@gmail.com">](italo12346@gmail.com)
+<img height = "30" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="italo12346@gmail.com"> italo12346@gmail.com
 
 
 
