@@ -25,4 +25,6 @@
   
 * Áreas de interesse :nerd_face:
   * :blue_book:Programação
+  * 📘:front end e back end
+ 
   
