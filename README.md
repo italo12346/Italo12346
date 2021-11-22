@@ -1,7 +1,8 @@
 # Olá sou Italo Souza Sampaio :wave:
 
-<img height = "30" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="italo12346@gmail.com"> 
--italo12346@gmail.com-
+  
+ <a href = "mailto:italo12346@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
 
 
 ### Sobre mim:
@@ -29,4 +30,3 @@
   * :blue_book:Programação
   * 📘:front end e back end
  
-  
