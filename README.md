@@ -11,7 +11,7 @@
 
 :books: Atualmente estou aprendendo de tudo.
 
-:outbox_tray: 2021 Objetivos: Me aperfeiçoar na area e encontrar um emprego
+:outbox_tray: 2022 Objetivos: Me aperfeiçoar na area e encontrar um emprego
 
   *  🏫 Cursando Analise e desenvolvimento de sistemas  - IFPB- Cajazeiras.
 
