@@ -16,7 +16,6 @@
   *  🏫 Cursando Analise e desenvolvimento de sistemas  - IFPB- Cajazeiras.
 
   *  Técnico em Informática :white_check_mark:
-  *  Progamador de Arduino :white_check_mark:
   <div display flex>
 <img height  = "30" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img height = "30" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
@@ -29,7 +28,7 @@
 
   * :blue_book:Programação
   * 📘:front end e back end
-  * Desenvolvimento web
+  * 📘:Desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/italo12346">
