@@ -3,7 +3,7 @@
 
 # 👨‍💻 Sobre mim
 
-🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal Da PAraiba - IFPB
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal Da Paraiba - IFPB
 📚 Pós-graduando em **Engenharia de Software com foco em DevOps** pela Universidade de Fortaleza - UNIFOR  
 
 Sou entusiasta da tecnologia, apaixonado por desenvolvimento de software e por boas práticas. Estou sempre aprendendo, experimentando e buscando evolução constante como profissional.
