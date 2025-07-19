@@ -3,7 +3,7 @@
 
 # 👨‍💻 Sobre mim
 
-🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal Da Paraiba - IFPB
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal da Paraíba - IFPB  
 📚 Pós-graduando em **Engenharia de Software com foco em DevOps** pela Universidade de Fortaleza - UNIFOR  
 
 Sou entusiasta da tecnologia, apaixonado por desenvolvimento de software e por boas práticas. Estou sempre aprendendo, experimentando e buscando evolução constante como profissional.
@@ -17,6 +17,7 @@ Sou entusiasta da tecnologia, apaixonado por desenvolvimento de software e por b
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
@@ -51,4 +52,3 @@ Sou entusiasta da tecnologia, apaixonado por desenvolvimento de software e por b
 ---
 
 ⭐ Obrigado por visitar meu perfil! Se curtir algum projeto, **deixe uma estrela** 🌟 e vamos nos conectar!
-
