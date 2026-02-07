@@ -6,7 +6,13 @@
 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal da Paraíba - IFPB  
 📚 Pós-graduando em **Engenharia de Software com foco em DevOps** pela Universidade de Fortaleza - UNIFOR  
 
-Sou entusiasta da tecnologia, apaixonado por desenvolvimento de software e por boas práticas. Estou sempre aprendendo, experimentando e buscando evolução constante como profissional.
+Desenvolvedor Full Stack com experiência em criação de soluções web e mobile. Iniciei minha trajetória como
+técnico em informática na assistência técnica da Moveletro, onde realizei manutenção de sistemas e trabalhei
+em equipe. Durante a graduação em Análise e Desenvolvimento de Sistemas, participei da empresa júnior da
+faculdade, contribuindo no desenvolvimento de projetos reais para a empresa AM3. Após concluir a
+graduação, atuei como freelancer, criando soluções sob medida para clientes locais. Atualmente curso
+Engenharia de Software com ênfase em DevOps na UNIFOR, buscando constante evolução técnica e
+profissional.
 
 ---
 
