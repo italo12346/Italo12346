@@ -43,7 +43,7 @@ profissional.
 
 ## 🔗 Links importantes
 
-- 📂 [Portfólio]([https://italo12346.github.io/Portifolio/](https://portifolio-v2-gilt.vercel.app/))
+- 📂 [Portfólio](https://portifolio-v2-gilt.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/italo-sampaio-b11a73231/)
 - 💌 [Email](mailto:italo12346@gmail.com)
 
