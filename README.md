@@ -81,7 +81,7 @@
         </p>
   </div>
 
-  <div style="flex: 1; min-width: 45%; text-align: center;">
+  <div style="flex: 1; min-width: 45%; text-align: center; justify-content: space-between;">
         <h3>📊 Minhas Estatísticas</h3>
         <img width="50%" src="https://streak-stats.demolab.com?user=italo12346&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" style="margin-bottom: 10px;">
         <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=italo12346&layout=compact&theme=tokyonight&hide_border=false&langs_count=8">
