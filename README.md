@@ -82,10 +82,9 @@
   </div>
 
   <div style="flex: 1; min-width: 45%; text-align: center;">
-        <h3>📊 My Stats</h3>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=italo12346&show_icons=true&theme=tokyonight&count_private=true" style="margin-bottom: 10px;">
-        <img width="100%" src="https://streak-stats.demolab.com?user=italo12346&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" style="margin-bottom: 10px;">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=italo12346&layout=compact&theme=tokyonight&hide_border=false&langs_count=8">
+        <h3>📊 My Stats</h3>bottom: 10px;">
+        <img width="80%" src="https://streak-stats.demolab.com?user=italo12346&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" style="margin-bottom: 10px;">
+        <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=italo12346&layout=compact&theme=tokyonight&hide_border=false&langs_count=8">
   </div>
 
 </div>
